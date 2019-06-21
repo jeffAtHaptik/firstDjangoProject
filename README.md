@@ -15,7 +15,7 @@ Now you can able to access APIs. So there are 2 API endpoint:
     
     where <emp_id> is employee id
     
-2. If you pass company id in URL then it gives JOSN response about details of all employees of that particular company
+2. If you pass company id in URL then it gives JSON response about details of all employees of that particular company
 
     http://127.0.0.1:8000/firstApp/<company_id>/employees
     
